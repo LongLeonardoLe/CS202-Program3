@@ -1,0 +1,59 @@
+Le
+Long
+9712223333
+longle@pdx.edu
+123 SW Jackson
+
+Le
+Tu
+9712224444
+tule@pdx.edu
+345 SW Park
+
+Trump
+Donald
+123456789
+donaldt@somethingfunny
+White House
+
+Trump
+Melania
+289109878
+melania@anotherfunnything
+White House
+
+Auditore
+Giovanni da Firenze
+3213213211
+gauditore@ac.italy
+Florence
+
+Auditore
+Maria de'Mozzi da Firenze
+5435435435
+mariaauditore@ac.italy
+Florence
+
+Auditore
+Ezio da Firenze
+9879879879
+eauditore@ac.italy
+Florence
+
+Vinci
+Piero da
+1351351355
+pdavinci@firenze.italia
+Firenze, Tuscany
+
+Vinci
+Catarina da
+2462462466
+cdavinci@firenze.italia
+Firenze, Tuscany
+
+Vinci
+Leonardo da
+9893216711
+ldavinci@firenze.italia
+Roma
